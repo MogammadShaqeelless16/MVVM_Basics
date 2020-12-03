@@ -1,0 +1,14 @@
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\bin\Debug\netstandard2.0\MVVM project.deps.json
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\bin\Debug\netstandard2.0\MVVM project.dll
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\bin\Debug\netstandard2.0\ref\MVVM project.dll
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\bin\Debug\netstandard2.0\MVVM project.pdb
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\MVVM project.csprojAssemblyReference.cache
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\MVVM project.AssemblyInfoInputs.cache
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\MVVM project.AssemblyInfo.cs
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\MVVM project.csproj.CoreCompileInputs.cache
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\MVVM project.dll
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\ref\MVVM project.dll
+C:\Users\Shaqeel less\source\repos\MVVM project\MVVM project\MVVM project\obj\Debug\netstandard2.0\MVVM project.pdb

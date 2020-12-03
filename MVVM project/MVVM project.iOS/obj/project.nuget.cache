@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BkVvKSYLVOEy/TA5ehmKQBJhnupImYuGJnuWxMH3Pjk4oGPajHvUAkblZ41X4r/laJ3B21YTdBom6PSGQVnLBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shaqeel less\\source\\repos\\MVVM project\\MVVM project\\MVVM project.iOS\\MVVM project.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
